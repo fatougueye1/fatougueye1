@@ -14,9 +14,9 @@
 <img align="right" alt="Coding" width="400" src=https://64.media.tumblr.com/e1b428cce8d977de94a18b957fdd6e81/tumblr_njj564KzkX1rluko6o1_500.gifv>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatougueye1&label=Profile%20views&color=0e75b6&style=flat" alt="fatougueye1" /> </p>
 
-- 🔭 I’m currently working on **An application in react native**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **React native, node js and python**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [in progress...](in progress...)
 
