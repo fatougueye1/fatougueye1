@@ -14,15 +14,15 @@
 <img align="right" alt="Coding" width="400" src=https://64.media.tumblr.com/e1b428cce8d977de94a18b957fdd6e81/tumblr_njj564KzkX1rluko6o1_500.gifv>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatougueye1&label=Profile%20views&color=0e75b6&style=flat" alt="fatougueye1" /> </p>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on a project using Java
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning Java/SpringBoot/Angular
 
 - 👨‍💻 All of my projects are available at [in progress...](in progress...)
 
 - 💬 Ask me about **Symfony**
 
-- 📫 How to reach me **fatou.gueye.pro@gmail.com**
+- 📫 How to reach me fatou.gueye.pro@gmail.com
 
 <br>
 
@@ -47,8 +47,5 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
-<i class="fa-brands fa-angular"></i>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatougueye1&" alt="fatougueye1" /></p>
 
