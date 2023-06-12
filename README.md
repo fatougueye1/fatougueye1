@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on a project using Java
 
-- 🌱 I’m currently learning Java/SpringBoot/Angular
+- 🌱 I’m currently learning Java/SpringBoot/Angular/JPA
 
 - 👨‍💻 All of my projects are available at [in progress...](in progress...)
 
